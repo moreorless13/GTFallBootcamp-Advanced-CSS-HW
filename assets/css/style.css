@@ -134,7 +134,7 @@ p {
     grid-row-start: 1;
     grid-row-end: 3;
     border: 6px solid lightblue;
-    background-image: url('/assets/images/code.jpg');
+    background-image: url('assets/images/code.jpg');
     opacity: 0.5;
 }
 .card1:hover {
@@ -161,7 +161,7 @@ p {
     grid-column-start: 1;
     grid-row-start: 3;
     border: 6px solid lightblue;
-    background-image: url('/assets/images/code.jpg');
+    background-image: url('assets/images/code.jpg');
     opacity: 0.5;
 }
 .card2:hover {
@@ -172,7 +172,7 @@ p {
     grid-column-start: 2;
     grid-row-start: 3;
     border: 6px solid lightblue;
-    background-image: url('/assets/images/code.jpg');
+    background-image: url('assets/images/code.jpg');
     opacity: 0.5;
 }
 .card3:hover {
@@ -184,7 +184,7 @@ p {
     grid-column-start: 1;
     grid-row-start: 4;
     border: 6px solid lightblue;
-    background-image: url('/assets/images/code.jpg');
+    background-image: url('assets/images/code.jpg');
     opacity: 0.5;
 }
 .card4:hover {
@@ -196,7 +196,7 @@ p {
     grid-column-start: 2;
     grid-row-start: 4;
     border: 6px solid lightblue;
-    background-image: url('/assets/images/code.jpg');
+    background-image: url('assets/images/code.jpg');
     opacity: 0.5;
 }
 
