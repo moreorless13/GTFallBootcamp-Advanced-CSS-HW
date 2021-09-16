@@ -61,7 +61,7 @@ img {
     width: 100%;
 }
 
-figcaption {
+h1.sub-header {
     display: flex;
     flex-direction: row;
     justify-content: center;
